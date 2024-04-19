@@ -22,3 +22,7 @@ The Yubico website has a big list referring to multiple cyberthreats. Learning t
 ### United Kingdom - NCSC
 
 [NCSC](https://www.ncsc.gov.uk/) *National Cyber Security Centre* Is the United Kingdom's National Cybersecurity Agency.
+
+### Japan - NISC
+
+[NISC](https://www.nisc.go.jp/eng/index.html) *National Center of Incident Readiness and Strategy for Cybersecurity* is Japan's National Cybersecurity Agency.
