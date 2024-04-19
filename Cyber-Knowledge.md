@@ -8,7 +8,7 @@ The Yubico website has a big list referring to multiple cyberthreats. Learning t
 
 ### France - ANSSI
 
-[ANSSI](https://cyber.gouv.fr/en) *Agence nationale de la Sécurité des Systèmes d'Information* or *National Cybersecurity Agency of France* is France's National Cybersecurity Agency.
+[ANSSI](https://cyber.gouv.fr/en) *Agence nationale de la Sécurité des Systèmes d'Information* is France's National Cybersecurity Agency.
 
 ### Germany - BSI
 
