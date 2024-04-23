@@ -84,11 +84,13 @@ Know let's see how a company can stop this attack.
 - 2FA/MFA: *2 Factor Authentification or Multi Factor Authentification is a good way to add an extra layer of security when your employees log-in to there computer session*  
 - Password/Passphrase: *Set up password rules, letters, numbers, special characters, minimal length, changing the password after a certain ammount of time, etc...*
 - 0trust: *Any devices that is not monitored by the company is considered as 0 trust: usb, pc, phone, storage systems, etc...*
+- Physical security *Locked doors (keys, badges, etc...), cameras, sensors, gates, well protected site and datacenter.*
 
 ### Machines
 
 - Good Network Architecture
 - Layer 3 switches *configure Vlans, block all ports to unknowned MAC adresses.*
-- Firewalls *Configure firewalls to block unnecessary websites, etc...*
+- Firewalls *Configure firewalls to block unnecessary websites.*
+- Redundancee *multiply the routes to different equipements to have faster traffic and if a machine gets comprimised you can turn it off whith out risking loosing any data or money.*
 
 ## Full attack.
