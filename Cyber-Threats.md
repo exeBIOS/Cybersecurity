@@ -44,3 +44,19 @@ You have the Stove, Washing Machine, Electric car and pool pump running and all 
 
 These sort of attacks are used to slow down a orginization witch doesn't seem much but blocking a big orginizations computer network for 1 hour or even 30 min, can cause serious money loss and damages.
 They are also used for a diversion so that the attackers can launch other attacks in the background like social engineering attacks or injections.
+
+### Injection Attacks
+
+There are a tone of injection attacks: SQL injection, SSI injection, XPath injection, etc...
+
+When a buglary takes place most of the time if not all the time, the enter points used to acces the house is a weak point. It can be a door, window, chimney, etc... They are hole, or features to the house that allow users to enter the house or to let the outside tempetures or wind come into the house. The chimney allows the smoke to escape. 
+
+A website is no different. The weakpoints are the parts of the websites where the user can modify the structure. 
+
+Let's take an SQL injection for example and let's break it into a comprehensible exercise.
+
+First of all you need to undertand that even thow a computer can do rediculusly hard operations at the speed of light, a computer is really DUMB. 
+
+Imagine you as a kid, your friend has a treehouse in his garden. To enter his tree house you need a "password" let's say the correct password is "1234". So we have this line: "1234" = "correct_password" THEN "allow acces"
+
+You can try a brute force attack: 0001, 0002, 0003, etc... but your friend might get bored and juste stop you from trying. So instead of trying to find the password, you're going to modify your friends rule. Instead of saying a random password you are going to tell him any_password. Now the line looks like this: "any_password" = "correct_password" THEN "allow acces". Any password is the correct password so you can access the tree house. 
