@@ -28,7 +28,14 @@ Most of the time the mail puts you under pressure and panick mode. You start pan
 
 ### Social enginnering
 
+Social engineering is a skill that allows hackers to manipulate their victims, either by usrping a known one's identity, making them feel under pressor or juste by making them think they're ehre to help them.
+
+Social engineering is not a hardskill it's more of a softskill.
+
 ### Network scanning (NMAP)
+
+Scanning a network is often seen as a "recon attack". This attack allows a hacker to map the majority of the network, one of the tools used is nmap. With a command you will be able to mark every most of the devices on a network: name, ip, mac, etc...
+Scanning the network allows you to understand how it could work. You can gather a lot of informations that could be useful. Like the web server's IP, the
 
 ### DDOS or DOS
 
