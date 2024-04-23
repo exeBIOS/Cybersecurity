@@ -64,4 +64,31 @@ Imagine you as a kid, your friend has a treehouse in his garden. To enter his tr
 
 You can try a brute force attack: 0001, 0002, 0003, etc... but your friend might get bored and juste stop you from trying. So instead of trying to find the password, you're going to modify your friends rule. Instead of saying a random password you are going to tell him any_password. Now the line looks like this: "any_password" = "correct_password" THEN "allow acces". Any password is the correct password so you can access the tree house. 
 
+## Hacking Scenario
+
+Scenario: You are a hacker and your goal is to make money, steal informations or both.
+
+You want to steal some data from a large company called Megasoft. Your goal is to leak user information and sell them on the darkweb (these information can be used for phishing, account Hijacking, better ads targetting, etc...)
+
+You need to have acces to the database server. Even if you had all the credentials, most companys use VPNs to connect from outside the LAN. You need to take control of a employees computer. You then think of a phishing attack. The thing is to naviguate in the company's network and stop security protocols you need an admin's session. So you are going to start by gathering information "OSINT". You are going to study the company, employees, etc... when you found the person you need you are going to send a spear phishing attack or a whale phishing attack. With your OSINT you are going to act like if you where an employee and start gathering information. Uber had a social engineering attack where a hacker sent pushes to unlock a users sension. He was pretending to be tech support and told the employee to click the unlock button to stop the spaming he said it was a bug. Now that you have acces to the employee's computer you are going to install a backdorr which will allow you to connect to his session with out going through the social engineering stuff again. Most company's have different admin accounts (decentralization). One person is a windows admin an other a sql database server an other a Linux admin etc... Let's say that with the OSINT or a lot of luck you have access to the database admin's account. You can know access the database and steal the information. 
+
+You just stole user informations and can know resell them on the darkweb.
+
+## Protect from this attack
+
+Know let's see how a company can stop this attack. 
+
+### Human
+
+- Employee Sensibilization: *Teach your employees of the dangers from cyberthreats and phishing, you can plan fake phishing emails to train your employees to report suspicious emails.*
+- 2FA/MFA: *2 Factor Authentification or Multi Factor Authentification is a good way to add an extra layer of security when your employees log-in to there computer session*  
+- Password/Passphrase: *Set up password rules, letters, numbers, special characters, minimal length, changing the password after a certain ammount of time, etc...*
+- 0trust: *Any devices that is not monitored by the company is considered as 0 trust: usb, pc, phone, storage systems, etc...*
+
+### Machines
+
+- Good Network Architecture
+- Layer 3 switches *configure Vlans, block all ports to unknowned MAC adresses.*
+- Firewalls *Configure firewalls to block unnecessary websites, etc...*
+
 ## Full attack.
