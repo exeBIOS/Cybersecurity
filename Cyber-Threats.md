@@ -3,6 +3,9 @@
 >[!note]
 >This liste contains multiple cyber threats/attacks that you need to know when starting in cyber security.
 
+>[!caution]
+>These INFORMATIONS are for EDUCATIONAL PURPOSES ONLY, i DO NOT encourage any illegal actions. The best way to counter a hacker is to become a hacker. Hacking is a WEAPON, ONLY YOU will decide what to to whith this knowledge.
+
 ## Information Gathering
 
 OSINT or Open Source INTeligence is not specifically a "Cyber-Attack" it's used in other domains like in the military to gather information on the enemy. But using OSINT can also be interesting for cyber criminals, as they can gather specific informations about some one or an organization and use them to plan realistic looking fishing emails.
@@ -60,3 +63,5 @@ First of all you need to undertand that even thow a computer can do rediculusly 
 Imagine you as a kid, your friend has a treehouse in his garden. To enter his tree house you need a "password" let's say the correct password is "1234". So we have this line: "1234" = "correct_password" THEN "allow acces"
 
 You can try a brute force attack: 0001, 0002, 0003, etc... but your friend might get bored and juste stop you from trying. So instead of trying to find the password, you're going to modify your friends rule. Instead of saying a random password you are going to tell him any_password. Now the line looks like this: "any_password" = "correct_password" THEN "allow acces". Any password is the correct password so you can access the tree house. 
+
+## Full attack.
