@@ -20,7 +20,7 @@ Start attacks are ttacks usually used to start a cyber attack.
 
 An attack against an orginization is usually a combination of different attacks.
 
-### Fishing
+### Phishing
 
 The fishing attack is the most common attack in cyber security. Its pretty much impossible to be fishing proof because the attackes is not targeting a machine but a human.
 The fishing attacks is also known as a Social engineering attack.
