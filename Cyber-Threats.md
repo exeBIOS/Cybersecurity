@@ -5,7 +5,7 @@
 
 ## Information Gathering
 
-OSINT or Open Source INTeligience is not specifically a "Cyber-Attack" it's used in other domains like in the military to gather information on the enemy. But using OSINT can also be interesting for cyber criminals, as they can gather specific informations about some one or an organization and use them to plan realistic looking fishing emails.
+OSINT or Open Source INTeligence is not specifically a "Cyber-Attack" it's used in other domains like in the military to gather information on the enemy. But using OSINT can also be interesting for cyber criminals, as they can gather specific informations about some one or an organization and use them to plan realistic looking fishing emails.
 Informations can also be gathered throught data breaches. If you don't want your personal data to leak, don't put them on the www (world wide web) or the internet. Databreaches are pretty common, they happened to Meta, Google and even governemental entitys that have a lot of informations about you.
 Here is some data about you that can leak: Name, Age, Origines, Pro Career, Familly members, House Adress, Car liscence plate, Medical Information
 
